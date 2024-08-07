@@ -5,18 +5,16 @@ body{
 .book-library{
 	background-color:#ffffff;
 	  justify-content: space-around;
-	 padding: 20px;
- margin: 20px;
-	border-radius: 10px;
+
 }
 .book{
-	background-color: rgb(46, 204, 113);
+	
 	text-align:center;
 }
 
 .price {
     color: #2ecc71;
-
+background-color: rgb(46, 204, 113);
     padding: 5px;
 	
 }
