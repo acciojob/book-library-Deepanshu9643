@@ -13,14 +13,10 @@ body{
 	text-align:center;
 }
 
-.book .author {
-    color: #777777;
-    font-size: 0.9em;
-    margin: 5px 0;
-}
-
-.book .price {
+.price {
     color: #2ecc71;
-    font-size: 1em;
-    margin: 5px 0;
 }
+.author{
+	color:#777777; 
+}
+	
