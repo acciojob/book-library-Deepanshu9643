@@ -15,6 +15,9 @@ body{
 
 .price {
     color: #2ecc71;
+color: #ffffff;
+    padding: 5px;
+	 border-radius: 5px;
 }
 .author{
 	color:#777777; 
