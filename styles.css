@@ -10,12 +10,13 @@ body{
 	border-radius: 10px;
 }
 .book{
+	background-color: rgb(46, 204, 113);
 	text-align:center;
 }
 
 .price {
     color: #2ecc71;
-color: #ffffff;
+
     padding: 5px;
 	
 }
